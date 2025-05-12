@@ -1,4 +1,4 @@
-FortnitePorting - Automation of the Fortnite Porting Process
+# FortnitePorting Slow Internet Edition
 ------------------------------------------
 
 #### Powered by [Avalonia UI](https://avaloniaui.net/) and [CUE4Parse](https://github.com/FabianFG/CUE4Parse)
@@ -10,7 +10,8 @@ FortnitePorting - Automation of the Fortnite Porting Process
 [![Downloads](https://img.shields.io/github/downloads/halfuwu/FortnitePorting/total?color=green)]()
 ***
 
-![image](https://github.com/user-attachments/assets/960d0dc5-695f-43b6-be0c-db74efdf1a17)
+![image](https://github.com/user-attachments/assets/87fc86c1-20f2-4da8-98c6-5914ceb9681a)
+
 
 ## Building FortnitePorting
 
