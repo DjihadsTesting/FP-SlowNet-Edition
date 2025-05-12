@@ -277,7 +277,7 @@ public class CUE4ParseViewModel : ViewModelBase
                 ChunkBaseUri = new Uri("https://download.epicgames.com/ias/fortnite/", UriKind.Absolute),
                 ChunkCacheDirectory = CacheFolder,
                 Authorization = new AuthenticationHeaderValue("Bearer", AppSettings.Current.Online.EpicAuth?.Token),
-                Timeout = TimeSpan.FromSeconds(30)
+                Timeout = TimeSpan.FromSeconds(300)
             };
 
             var chunkToc = new IoChunkToc(onDemandFile);
@@ -287,7 +287,7 @@ public class CUE4ParseViewModel : ViewModelBase
         catch (Exception e)
         {
             AppWM.Dialog("Failed to Initialize Texture Streaming", 
-                $"Please enable the \"Pre-Download Streamed Assets\" option for Fortnite in the Epic Games Launcher and disable texture streaming in installation settings to remove this popup.");
+                $"wow you're internet so sh*t even the 5 minute timeout was not enough");
         }
     }
     
