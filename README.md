@@ -1,5 +1,13 @@
 # FortnitePorting Slow Internet Edition
 
+> [!WARNING]
+> This Project is archived, FortnitePorting v3.2.0 has fixed the request timeout lenght allowing you to put any amount and get HD Textures on slow internet connections
+>![image](https://github.com/user-attachments/assets/d59ee7d7-2b51-40a0-895d-55038eee47a6)
+
+
+
+
+
 Made for fellow slow internet artists, by changing the https timeout of streamed textures from 30 seconds to 5 minutes!
 ------------------------------------------
 
